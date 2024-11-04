@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://udiboamo.github.io/ACm/sitemap_index.txt
+Sitemap: https://udiboamo.github.io/ArZ/sitemap_index.txt
+Sitemap: https://udiboamo.github.io/PHl/sitemap_index.txt
+Sitemap: https://udiboamo.github.io/pBh/sitemap_index.txt
